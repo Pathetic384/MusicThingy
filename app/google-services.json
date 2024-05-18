@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28445450733",
+    "project_id": "serverside-7a675",
+    "storage_bucket": "serverside-7a675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28445450733:android:c3636df7b36060a2ed87e4",
+        "android_client_info": {
+          "package_name": "com.example.musicthingy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_d86zdlOjTACJ91lJNVyqiUNEiPjeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
