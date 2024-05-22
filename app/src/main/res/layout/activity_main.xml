@@ -79,29 +79,28 @@
 
     <EditText
         android:id="@+id/songTitle"
-        android:layout_width="397dp"
-        android:layout_height="37dp"
+        android:layout_width="267dp"
+        android:layout_height="62dp"
         android:text="title"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.714"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2"
-        app:layout_constraintVertical_bias="0.1" />
+        app:layout_constraintVertical_bias="0.147" />
 
     <EditText
         android:id="@+id/songArtist"
-        android:layout_width="394dp"
-        android:layout_height="46dp"
+        android:layout_width="284dp"
+        android:layout_height="59dp"
         android:text="artist"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintHorizontal_bias="0.591"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/songTitle"
-        app:layout_constraintVertical_bias="0.11" />
+        app:layout_constraintVertical_bias="0.22" />
 
     <EditText
         android:id="@+id/songDuration"
@@ -141,8 +140,8 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="176dp"
-        android:layout_marginTop="372dp"
+        android:layout_marginStart="188dp"
+        android:layout_marginTop="412dp"
         android:text="Artist"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
